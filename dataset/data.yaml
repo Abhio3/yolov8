@@ -1,0 +1,6 @@
+path: /Users/abhi/Desktop/Image-Alignment/dataset
+train: images/train
+val: images/val
+
+nc: 5
+names: ['ans_1', 'ans_2', 'ans_3', 'mobile_number', 'program_id']
